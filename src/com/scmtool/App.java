@@ -1,14 +1,15 @@
 package com.scmtool;
 
-import java.util.Scanner;
 import java.time.LocalDateTime;
+import java.util.Scanner;
 
 public class App {
 
     private static final Scanner SC = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.println("=== SCM Project: Java Utility Tool ===");
+        System.out.println("=== SCM Tool v1 by Nouf & rasha ===");
+
 
         // Feature 1 by Nouf: Display current date and time
         LocalDateTime now = LocalDateTime.now();
