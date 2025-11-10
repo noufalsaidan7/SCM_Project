@@ -8,7 +8,7 @@ public class App {
     private static final Scanner SC = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.println("=== SCM Tool v1 by Nouf & rasha ===");
+System.out.println("=== SCM Tool v1 by Nouf & Rasha & Conflict C ===");
 
 
         // Feature 1 by Nouf: Display current date and time
